@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BMI_Calc</string>
+    <string name="main_screen_height_input_label">Height, cm</string>
 </resources>
